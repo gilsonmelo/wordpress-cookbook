@@ -9,7 +9,7 @@ The Chef WordPress cookbook installs and configures WordPress according to the i
 Description
 ===========
 
-This cookbook does not set up the WordPress blog. You will need to do this manually by going to http://hostname/wp-admin/install.php (this URL may be different if you change the attribute values).
+This cookbook does not set up the WordPress blog! You will need to do this manually by going to http://hostname/wp-admin/install.php (this URL may be different if you change the attribute values).
 
 Requirements
 ============
